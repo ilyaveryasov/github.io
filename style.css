@@ -1,0 +1,17 @@
+body {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.about-me {
+    color: red;
+    font-size: 32px;
+    text-align: left;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skills {
+    background-color: red;
+    margin-top: auto;
+    margin-bottom: auto;
+}
